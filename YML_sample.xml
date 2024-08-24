@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-08-23 12:00">
+    <shop>
+        <name>Benefit Estate</name>
+        <company>Benefit Estate</company>
+        <url>https://catalogue.benefit.estate</url>
+        <currencies>
+            <currency id="USD" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Недвижимость</category>
+        </categories>
+        <offers>
+            <offer id="31" available="true">
+                <url>https://catalogue.benefit.estate/catalog/sale/novostrojki/object/31?lang=ru</url>
+                <price>222000</price>
+                <currencyId>USD</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://photos.google.com/album/AF1QipOHMEzXgqJ_M68-q3-yvuz3b5YK6Bhxh3AMIW34/photo/AF1QipPV0YbDzWYSFv_7Rpb-pZyVXG85oMeT0nK2PYWE</picture>
+                <name>Недвижимость в Турции</name>
+                <description>Премиум-комплекс 'Eternia' в Алтынташе, Анталия: 227 квартир, бассейны, фитнес, парковка. Идеален для инвестиций, ВНЖ и гражданства. Завершение строительства в мае 2025 года.</description>
+                <stock_quantity>10</stock_quantity>
+            </offer>
+            <offer id="134" available="true">
+                <url>https://catalogue.benefit.estate/catalog/sale/novostrojki/object/134?lang=ru</url>
+                <price>141375</price>
+                <currencyId>USD</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://photos.google.com/album/AF1QipOHMEzXgqJ_M68-q3-yvuz3b5YK6Bhxh3AMIW34/photo/AF1QipNrHJQ5Yoxp_mU3JlDPkWRfbsdb3gw8xLZbI7M8</picture>
+                <name>Купить недвижимость в турции 2</name>
+                <description>Жилой комплекс Beyond All в Алтынташ, Анталья. Возможность получения ВНЖ и гражданства.</description>
+                <stock_quantity>15</stock_quantity>
+            </offer>
+            <offer id="26" available="true">
+                <url>https://catalogue.benefit.estate/catalog/sale/novostrojki/object/26?lang=ru</url>
+                <price>270000</price>
+                <currencyId>USD</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://photos.google.com/album/AF1QipOHMEzXgqJ_M68-q3-yvuz3b5YK6Bhxh3AMIW34/photo/AF1QipN14MkAyYvc-bQs4AJYkaU0_r416nRlt9zsfYRf</picture>
+                <name>Недвижимость в турции цены 3</name>
+                <description>LOVE Collection в Анталии: 10 000 м² роскоши, современные апартаменты 1+1 и 2+1, бассейны, SPA, умный дом. Гибкие условия оплаты, сдача в 2025 году. Идеально для жизни и инвестиций.</description>
+                <stock_quantity>10</stock_quantity>
+            </offer>
+            <offer id="40" available="true">
+                <url>https://catalogue.benefit.estate/catalog/sale/novostrojki/object/40?lang=ru</url>
+                <price>163638</price>
+                <currencyId>USD</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://photos.google.com/album/AF1QipOHMEzXgqJ_M68-q3-yvuz3b5YK6Bhxh3AMIW34/photo/AF1QipMKWRB3mgNv1tM1lcPSQ9Dmjt2eP1u4sksohpGH</picture>
+                <name>Покупка недвижимости в Турции 3</name>
+                <description>Проект DEL MARE в Алании: 176 апартаментов с видом на море, премиальная инфраструктура, приватный пляж, фитнес, SPA. Подходит для ВНЖ и гражданства. Гибкие условия оплаты, сдача в 2025 году.</description>
+                <stock_quantity>10</stock_quantity>
+            </offer>
+            <offer id="28" available="true">
+                <url>https://catalogue.benefit.estate/catalog/sale/novostrojki/object/28?lang=ru</url>
+                <price>700000</price>
+                <currencyId>USD</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://photos.google.com/album/AF1QipOHMEzXgqJ_M68-q3-yvuz3b5YK6Bhxh3AMIW34/photo/AF1QipOrYVtqElqVT1HtF7tgmHY8etbFjcaQuJyiF1tJ</picture>
+                <name>Недвижимость в Турции гражданство 3</name>
+                <description>Элитный комплекс Pura Vida в Анталии: 48 квартир 3+1, премиальная инфраструктура, сдан в 2023 году. Идеален для ВНЖ и гражданства. Высокий комфорт, безопасность, продуманный дизайн.</description>
+                <stock_quantity>5</stock_quantity>
+            </offer>
+            <offer id="4" available="true">
+                <url>https://catalogue.benefit.estate/catalog/sale/novostrojki/object/4?lang=ru</url>
+                <price>112000</price>
+                <currencyId>USD</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://photos.google.com/album/AF1QipOHMEzXgqJ_M68-q3-yvuz3b5YK6Bhxh3AMIW34/photo/AF1QipOqf3ozLaSo-m6E7i_yUQOVdFmtmJ7qOrWgwSsO</picture>
+                <name>Недорогая недвижимость в Турции 3</name>
+                <description>1207 Antalya Prestige — жилой комплекс в центре Анталии с просторными квартирами и богатой инфраструктурой. ВНЖ и гражданство. Сдача — октябрь 2024 года. Идеальное сочетание комфорта и престижа.</description>
+                <stock_quantity>10</stock_quantity>
+            </offer>
+            <offer id="147" available="true">
+                <url>https://catalogue.benefit.estate/catalog/sale/novostrojki/object/147?lang=ru</url>
+                <price>178110</price>
+                <currencyId>USD</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://photos.google.com/album/AF1QipOHMEzXgqJ_M68-q3-yvuz3b5YK6Bhxh3AMIW34/photo/AF1QipM0_hk8R288KvtV1032YHXeOSAK8XteFbZ3yP0m</picture>
+                <name>Недвижимость в Турции у моря 3</name>
+                <description>Проект MAY VISION в Анталии: современное жилье с развитой инфраструктурой, сдача в июне 2025 года. Выбор планировок 1+1, 2+1, 3+1, дуплексов и лофтов. Комфорт и элегантность для ваших нужд.</description>
+                <stock_quantity>10</stock_quantity>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
